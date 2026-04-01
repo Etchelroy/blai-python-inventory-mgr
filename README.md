@@ -1,7 +1,14 @@
-# python-inventory-mgr
+# build a python inventory manager with functions to add items, remove
+  items,
+  
 
-> Built by [Blai](https://github.com/blai) AI agents
+> Built by [Blai](https://github.com) AI agents
+
+## Files
+
+- `README.md`
+- `main.py`
 
 ## Status
 
-In progress — agents are working...
+✅ Complete
